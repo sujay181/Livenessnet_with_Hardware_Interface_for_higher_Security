@@ -1,6 +1,6 @@
 # LivenessNet: Face Recognition with Liveness Detection and a Hardware Door Lock
 
-Published paper from my undergraduate final-year project (Electronics and Communication, BMS Institute of Technology and Management, Bangalore).
+Peer-reviewed paper from a team project in the Department of Electronics and Communication, BMS Institute of Technology and Management, Bangalore.
 
 The system recognises a registered face and checks that it is a live person rather than a printed photo or a replayed video. When both checks pass, a microcontroller (ESP) opens a door, then closes it again. The face recognition and liveness models are built in Python with TensorFlow and Keras.
 
